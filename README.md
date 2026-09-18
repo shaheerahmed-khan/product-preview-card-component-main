@@ -17,8 +17,8 @@
 
 ### Links
 
-- Solution URL: [Solution URL](https://github.com/shaheerahmedkhan11/product-preview-card-component-main)
-- Live Site URL: [Live site URL ](https://shaheerahmedkhan11.github.io/product-preview-card-component-main/)
+- Solution URL: [Solution URL](https://github.com/shaheerahmed-khan/product-preview-card-component-main)
+- Live Site URL: [Live site URL ](https://shaheerahmed-khan.github.io/product-preview-card-component-main/)
 
 ### Built with
 
